@@ -10,4 +10,4 @@
 * PHP
 
 写一段万年不变的 Hello World
-`<?php echo 'Hello World!' ?>`
+`<?php echo 'Hello World!'; ?>`
